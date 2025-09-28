@@ -1,0 +1,16 @@
+===== PERSONAJES =====
+1|Metroman|Super Velocidad|499|90|9|9|49|1|0
+2|Megamente|Inteligencia|100|70|7|6|25|0|1
+===== BATALLAS =====
+1|1758948412623|Metroman|Megamente|Metroman
+--- BITACORA ---
+¡COMIENZA LA BATALLA ENTRE Metroman Y Megamente!
+Metroman ataca a Megamente - Falló (esquiva)
+Megamente ataca a Metroman - Falló (esquiva)
+Metroman ataca a Megamente con Super Velocidad causando 65 puntos de daño. HP restante: 35
+Megamente ataca a Metroman con Inteligencia causando 21 puntos de daño. HP restante: 478
+Metroman ataca a Megamente con Super Velocidad causando 65 puntos de daño. HP restante: 0
+Megamente ha sido derrotado!
+Megamente ataca a Metroman - Falló (esquiva)
+¡BATALLA FINALIZADA! El ganador es: Metroman
+--- FIN BITACORA ---
